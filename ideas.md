@@ -1,0 +1,5 @@
+-Carrusel decente
+-Componentes random separados (Navbar, footer, etc.)
+-Re-hacer de 0 (pero mas sencillo el e-commerce u otro proyecto parecido)
+-Página para club de libros
+-Página para penca
